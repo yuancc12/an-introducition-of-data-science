@@ -27,8 +27,8 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
-+[第一周](https://moodle3.ntnu.edu.tw/pluginfile.php/1392577/mod_resource/content/2/lecture_1.pdf)
-+[第二周](https://moodle3.ntnu.edu.tw/pluginfile.php/1392621/mod_resource/content/1/lecture_2.pdf)
++ [第一周](https://moodle3.ntnu.edu.tw/pluginfile.php/1392577/mod_resource/content/2/lecture_1.pdf)
++ [第二周](https://moodle3.ntnu.edu.tw/pluginfile.php/1392621/mod_resource/content/1/lecture_2.pdf)
 # 筆記區
 
 
