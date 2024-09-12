@@ -5,7 +5,6 @@
 + [自我介紹](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
-+ [專題演講](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [筆記區](https://github.com/yuancc12/An-Introducition-of-Data-Science/blob/main/README.md#%E7%AD%86%E8%A8%98%E5%8D%80)
 # 簡介
@@ -25,6 +24,9 @@
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
-# 特殊專區
+# 練習專區
+# 作業專區
+# 課堂PPT
+# 筆記區
 
 
